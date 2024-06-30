@@ -1,0 +1,18 @@
+title: Danilo's Page
+description: A testing ground for projects from Danilo.
+theme: hacker-theme
+
+author: ultimateownsz
+
+url: "https://danilosaiu.com"
+baseurl: ""
+
+markdown: kramdown
+highligher: rouge
+
+plugins:
+  - jekyll-feed      # Generates an Atom feed for your Jekyll site
+  - jekyll-seo-tag   # Adds SEO tags to your site
+  - jekyll-sitemap   # Generates a sitemap for your Jekyll site
+  - jekyll-paginate  # Adds pagination to your Jekyll site
+  - jekyll-admin     # Provides a web-based interface to manage your Jekyll site
